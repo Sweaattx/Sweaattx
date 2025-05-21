@@ -1,5 +1,3 @@
-Here's an enhanced, professional version of your GitHub profile README:
-
 ```markdown
 <div align="center">
   
@@ -70,22 +68,3 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=Sweaattx&color=blue&style=flat-square&label=Profile+Views">
 </div>
 ```
-
-Para implementar este README mejorado:
-
-1. Ve a tu repositorio especial (`Sweaattx/Sweaattx`)
-2. Edita el archivo README.md
-3. Reemplaza todo el contenido con este nuevo código
-4. Personaliza los siguientes elementos:
-   - Tu URL de LinkedIn en la sección "How to Reach Me"
-   - Tu dirección de correo en el botón de Gmail
-   - Ajusta las tecnologías en la sección "Technologies & Tools" según las que uses
-
-Características del nuevo diseño:
-- Banner animado con texto dinámico
-- Presentación creativa en formato de código Python
-- Estadísticas de GitHub en tiempo real
-- Diseño visual mejorado con badges e íconos
-- Contador de visitas al perfil
-- Sección de contacto profesional
-- Tema coherente en azul/nocturno
