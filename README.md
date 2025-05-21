@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Piero Valdez | Hi, I'm Piero Valdez
 
-<!--
-**Sweaattx/Sweaattx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí | About me
+- 🎓 Estudiante de Ingeniería de Software | Software Engineering Student
+- 🚀 Aspirante a desarrollador Full Stack/Backend | Aspiring Full Stack/Backend Developer
+- 🌱 En constante aprendizaje | Always learning
+- 💼 19 años, comenzando mi viaje en el desarrollo de software | 19 years old, starting my software development journey
 
-Here are some ideas to get you started:
+### 🎯 Objetivos | Goals
+- 🔥 Desarrollar habilidades como Full Stack Developer
+- 💡 Especialización en desarrollo Backend
+- 📚 Aprender nuevas tecnologías y mejorar constantemente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+🌟 ¡Siempre dispuesto a aprender y colaborar en nuevos proyectos! 🌟
+</div>
